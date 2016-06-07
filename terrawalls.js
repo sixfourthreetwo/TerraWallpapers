@@ -870,7 +870,7 @@
                 {
                     "author": "SixtyFour ThirtyTwo",
                     "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Forest%20in%20Mist.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Forest%20in%20Mis.jpg",
+                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Forest%20in%20Mist.jpg",
                     "name": "forest2"
                 }, 
                 {
