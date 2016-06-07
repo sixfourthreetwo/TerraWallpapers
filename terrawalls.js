@@ -18,9 +18,9 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/alwhat.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/alwhat.jpg",
-                    "name": "alwhat"
+                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/alwahat.jpg",
+                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/alwahat.jpg",
+                    "name": "alwahat"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
