@@ -6,7 +6,7 @@
                 "wallpaper": [
                 {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/aires.jpg",
+                    "url": "http://i.imgur.com/F7U5BR9.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/aires.jpg",
                     "name": "aires"
                 }, 
@@ -216,15 +216,15 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/field.jpg",
+                    "url": "http://i.imgur.com/oEVVjxo.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/field.jpg",
                     "name": "field"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                     "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/fieldss.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/fieldss.jpg",
-                    "name": "fieldss"
+                     "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/fields2.jpg",
+                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/fields2.jpg",
+                    "name": "fields2"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
@@ -276,31 +276,31 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/greenflow.jpg",
+                    "url": "http://i.imgur.com/eub3pZt.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/greenflow.jpg",
                     "name": "greenflow"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/guerzim.jpg",
+                    "url": "http://i.imgur.com/qfk1N7j.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/guerzim.jpg",
                     "name": "guerzim"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/gunnison.jpg",
+                    "url": "http://i.imgur.com/w5x1lk9.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/gunnison.jpg",
                     "name": "gunnison"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/heibei.jpg",
+                    "url": "http://i.imgur.com/udBFr9a.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/heibei.jpg",
                     "name": "heibei"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/helgo.jpg",
+                    "url": "http://i.imgur.com/21EM969.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/helgo.jpg",
                     "name": "helgo"
                 },
@@ -312,37 +312,37 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/hoar.jpg",
+                    "url": "http://i.imgur.com/Q0Uua5R.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/hoar.jpg",
                     "name": "hoar"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/iris.jpg",
+                    "url": "http://i.imgur.com/hgLl6Y2.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/iris.jpg",
                     "name": "iris"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/karak.jpg",
+                    "url": "http://i.imgur.com/DkKuMEf.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/karak.jpg",
                     "name": "karak"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/klimt.jpg",
+                    "url": "http://i.imgur.com/kz9i3Jn.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/klimt.jpg",
                     "name": "klimt"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lagoon.jpg",
+                    "url": "http://i.imgur.com/4tt69Jr.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lagoon.jpg",
                     "name": "lagoon"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lagos.jpg",
+                    "url": "http://i.imgur.com/2mahvX7.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lagos.jpg",
                     "name": "lagos"
                 },
@@ -378,7 +378,7 @@
                 },
                 {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lakes.jpg",
+                    "url": "http://i.imgur.com/vMo0AtH.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lakes.jpg",
                     "name": "lakes"
                 }, 
@@ -390,7 +390,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/leftline.jpg",
+                    "url": "http://i.imgur.com/IAIm9wG.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/leftline.jpg",
                     "name": "leftline"
                 },
@@ -402,7 +402,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lonebuilding.jpg",
+                    "url": "http://i.imgur.com/R8onOHE.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lonebuilding.jpg",
                     "name": "lonebuilding"
                 },
@@ -414,31 +414,31 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/manunaloa.jpg",
+                    "url": "http://i.imgur.com/gyflGYN.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/manunaloa.jpg",
                     "name": "manunaloa"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/manunaloa2.jpg",
+                    "url": "http://i.imgur.com/C78i7U0.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/manunaloa2.jpg",
                     "name": "manunaloa2"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/marble.jpg",
+                    "url": "http://i.imgur.com/pODXk0k.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/marble.jpg",
                     "name": "marble"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/marche.jpg",
+                    "url": "http://i.imgur.com/BpAUBYx.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/marche.jpg",
                     "name": "marche"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/massif.jpg",
+                    "url": "http://i.imgur.com/7YAxru0.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/massif.jpg",
                     "name": "massif"
                 },
@@ -468,7 +468,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/musselbrough.jpg",
+                    "url": "http://i.imgur.com/OJ3WAd1.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/musselbrough.jpg",
                     "name": "musselbrough"
                 },
@@ -480,7 +480,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/nether.jpg",
+                    "url": "http://i.imgur.com/xY92Khw.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/nether.jpg",
                     "name": "nether"
                 },
@@ -498,7 +498,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/nord.jpg",
+                    "url": "http://i.imgur.com/58yhvyL.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/nord.jpg",
                     "name": "nord"
                 },
@@ -510,7 +510,7 @@
                 }, 
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/Ouargla.jpg",
+                    "url": "http://i.imgur.com/rtd2ND6.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/ouargla.jpg",
                     "name": "ouargla"
                 },
@@ -528,31 +528,31 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/palette.jpg",
+                    "url": "http://i.imgur.com/7Jtyr3T.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/palette.jpg",
                     "name": "palette"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/paris.jpg",
+                    "url": "http://i.imgur.com/Ue5rcOl.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/paris.jpg",
                     "name": "paris"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/patchwork.jpg",
+                    "url": "http://i.imgur.com/47zasec.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/patchwork.jpg",
                     "name": "patchwork"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/Peru.jpg",
+                    "url": "http://i.imgur.com/bcONBVF.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/peru.jpg",
                     "name": "peru"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/playdoh.jpg",
+                    "url": "http://i.imgur.com/1lX8g0x.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/playdoh.jpg",
                     "name": "playdoh"
                 },
@@ -570,7 +570,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/quilt.jpg",
+                    "url": "http://i.imgur.com/YrA78NJ.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/quilt.jpg",
                     "name": "quilt"
                 },
@@ -588,7 +588,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/redsea.jpg",
+                    "url": "http://i.imgur.com/hXVO2nn.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/redsea.jpg",
                     "name": "redsea"
                 },
@@ -606,19 +606,19 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/rocky.jpg",
+                    "url": "http://i.imgur.com/UB6gd5h.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/rocky.jpg",
                     "name": "rocky"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/rockycoast.jpg",
+                    "url": "http://i.imgur.com/BvlVCMD.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/rockycoast.jpg",
                     "name": "rockycoast"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/runway.jpg",
+                    "url": "http://i.imgur.com/rgtRXeF.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/runway.jpg",
                     "name": "runway"
                 },
@@ -630,19 +630,19 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sandbank.jpg",
+                    "url": "http://i.imgur.com/MmK190w.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sandbank.jpg",
                     "name": "sandbank"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sanilurfa.jpg",
+                    "url": "http://i.imgur.com/h0Bcxpg.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sanilurfa.jpg",
                     "name": "sanilurfa"
                 },
                 {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sanpedro.jpg",
+                    "url": "http://i.imgur.com/jNgAYFa.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sanpedro.jpg",
                     "name": "sanpedro"
                 }, 
@@ -654,25 +654,25 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sd.jpg",
+                    "url": "http://i.imgur.com/8SuOHUB.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sd.jpg",
                     "name": "SD"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sea.jpg",
+                    "url": "http://i.imgur.com/fOLHde6.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sea.jpg",
                     "name": "sea"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/seacoast.jpg",
+                    "url": "http://i.imgur.com/oojEfeS.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/seacoast.jpg",
                     "name": "seacoast"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/seacrest.jpg",
+                    "url": "http://i.imgur.com/gnSUlQp.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/seacrest.jpg",
                     "name": "seacrest"
                 },
@@ -684,7 +684,7 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/shell.jpg",
+                    "url": "http://i.imgur.com/cBCc6bs",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/shell.jpg",
                     "name": "shell"
                 },
@@ -696,43 +696,49 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sicily.jpg",
+                    "url": "http://i.imgur.com/Pnqa1Ez",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sicily.jpg",
                     "name": "sicily"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sicily2.jpg",
+                    "url": "http://i.imgur.com/m4bm31Z",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sicily2.jpg",
                     "name": "sicily2"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/skylakes.jpg",
+                    "url": "http://i.imgur.com/jw7CAae",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/skylakes.jpg",
                     "name": "skylakes"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/snowlumps.jpg",
+                    "url": "http://i.imgur.com/Uh2YTNR",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/snowlumps.jpg",
                     "name": "snowlumps"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/snowpatch.jpg",
+                    "url": "http://i.imgur.com/0ILcoCQ",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/snowpatch.jpg",
                     "name": "snowpatch"
                 },
+                {
+                    "author": "SixtyFour ThirtyTwo",
+                    "url": "http://i.imgur.com/JIxAmir.jpg",
+                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/snowwavetwo.jpg",
+                    "name": "snowwave"
+                },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/snowwavetwo.jpg",
+                    "url": "http://i.imgur.com/SF2uu9Z.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/snowwavetwo.jpg",
                     "name": "snowwavetwo"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/sorona.jpg",
+                    "url": "http://i.imgur.com/WzUtqTB",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/sorona.jpg",
                     "name": "sorona"
                 },
@@ -744,13 +750,13 @@
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/tanami.jpg",
+                    "url": "http://i.imgur.com/P0tG5w3",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/tanami.jpg",
                     "name": "tanami"
                 },
                  {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/thefalls.jpg",
+                    "url": "http://i.imgur.com/obrjwyu",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/thefalls.jpg",
                     "name": "thefalls"
                 },
@@ -774,7 +780,7 @@
                 },
                 {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/ufo.jpg",
+                    "url": "http://i.imgur.com/L8KB9QD",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/ufo.jpg",
                     "name": "ufo"
                 },
@@ -792,7 +798,7 @@
                 },
                 {
                     "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/whipcord.jpg",
+                    "url": "http://i.imgur.com/zmxR5ed.jpg",
                     "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/whipcord.jpg",
                     "name": "whipcord"
                 },
@@ -1263,399 +1269,8 @@
                     "name": "pixelsorted6"
                 }
                 ]
-            },
-                {
-                    "name": "Latest",
-                    "wallpaper": [
-	               {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/alwahat.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/alwahat.jpg",
-                    "name": "alwahat"
-                },
-                 {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/antofagasta.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/antofagasta.jpg",
-                    "name": "antofagasta"
-                },
-                 {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/antofagasta2.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/antofagasta2.jpg",
-                    "name": "antofagasta2"
-                },{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/ceel.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/ceel.jpg",
-                    "name": "ceel"
-                },{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/clouds.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/clouds.jpg",
-                    "name": "clouds"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/coteaulake.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/coteaulake.jpg",
-                    "name": "coteaulake"
-                },
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/duo.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/duo.jpg",
-                    "name": "duo"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lakeballard.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lakeballard.jpg",
-                    "name": "lakeballard"
-                },
-                 {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/lakeirwin.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/lakeirwin.jpg",
-                    "name": "lakeirwin"
-                },
- {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/loughneagh.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/loughneagh.jpg",
-                    "name": "loughneagh"
-                },
-  {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/negaunee.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/negaunee.jpg",
-                    "name": "negaunee"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/orabanda.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/orabanda.jpg",
-                    "name": "orabanda"
-                }, 
- {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/purplelake.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/purplelake.jpg",
-                    "name": "purplelake"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/redsand.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/redsand.jpg",
-                    "name": "redsand"
-                },
-                 {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/redsand2.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/redsand2.jpg",
-                    "name": "redsand2"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/riverflow.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/riverflow.jpg",
-                    "name": "riverflow"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/saintjohn.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/saintjohn.jpg",
-                    "name": "saintjohn"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/saudiarabia.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/saudiarabia.jpg",
-                    "name": "saudiarabia"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/watergirl.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/watergirl.jpg",
-                    "name": "watergirl"
-                },
-{
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/whiteflaglake.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/whiteflaglake.jpg",
-                    "name": "whiteflaglake"
-                },
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Antelope%20Canyon.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Antelope%20Canyon.jpg",
-                    "name": "antelope canyon"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Bahamas%20Aerial.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Bahamas%20Aerial.jpg",
-                    "name": "bahamas aerial"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Beach.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Beach.jpg",
-                    "name": "beach"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Blue%20Pond.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Blue%20Pond.jpg",
-                    "name": "blue pond"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Bristle%20Grass.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Bristle%20Grass.jpg",
-                    "name": "bristle grass"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Death%20Valley.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Death%20Valley.jpg",
-                    "name": "death valley"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Desert.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Desert.jpg",
-                    "name": "desert"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Ducks%20on%20a%20Misty%20Pond.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Ducks%20on%20a%20Misty%20Pond.jpg",
-                    "name": "ducks"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Eagle%20%26%20Waterfall.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Eagle%20%26%20Waterfall.jpg",
-                    "name": "eagle"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Earth%20and%20Moon.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Earth%20and%20Moon.jpg",
-                    "name": "earthmoon"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Earth%20Horizon.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Earth%20Horizon.jpg",
-                    "name": "earth"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/El%20Capitan%202.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/El%20Capitan%202.jpg",
-                    "name": "elcapitan"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/El%20Capitan.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/El%20Capitan.jpg",
-                    "name": "elcapitan2"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Flamingos.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Flamingos.jpg",
-                    "name": "flamingos"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Floating%20Ice.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Floating%20Ice.jpg",
-                    "name": "ice"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Floating%20Leaves.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Floating%20Leaves.jpg",
-                    "name": "leaves"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Foggy%20Forest.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Foggy%20Forest.jpg",
-                    "name": "forest"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Forest%20in%20Mist.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Forest%20in%20Mist.jpg",
-                    "name": "forest2"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Foxtail%20Barley.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Foxtail%20Barley.jpg",
-                    "name": "foxtail"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Frog.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Frog.jpg",
-                    "name": "frog"
-                },
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Grass%20Blades.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Grass%20Blades.jpg",
-                    "name": "grass"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Isles.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Isles.jpg",
-                    "name": "isles"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Lake.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Lake.jpg",
-                    "name": "lake"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Lion.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Lion.jpg",
-                    "name": "lion"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Milky%20Way.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Milky%20Way.jpg",
-                    "name": "milkyway"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Mountain%20Range.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Mountain%20Range.jpg",
-                    "name": "mountains"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Mt.%20Fuji.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Mt.%20Fuji.jpg",
-                    "name": "mtfuji"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Pink%20Forest.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Pink%20Forest.jpg",
-                    "name": "pinkforest"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Pink%20Lotus%20Flower.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Pink%20Lotus%20Flower.jpg",
-                    "name": "pinklotus"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Poppies.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Poppies.jpg",
-                    "name": "poppies"
-                },
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Red%20Bells.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Red%20Bells.jpg",
-                    "name": "redbells"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Rice%20Paddy.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Rice%20Paddy.jpg",
-                    "name": "ricepaddy"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Rolling%20Waves.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Rolling%20Waves.jpg",
-                    "name": "rollingwaves"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Sky.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Sky.jpg",
-                    "name": "sky"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Wave.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Wave.jpg",
-                    "name": "wave"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite%202.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite%202.jpg",
-                    "name": "yosemite"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite%203.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite%203.jpg",
-                    "name": "yosemite2"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite%204.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite%204.jpg",
-                    "name": "yosemite3"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite%205.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite%205.jpg",
-                    "name": "yosemite4"
-                }, 
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite.jpg",
-                    "name": "yosemite5"
-                },
-                {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Zebras.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Zebras.jpg",
-                    "name": "zebras"
-                }, {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N1.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N1.jpg",
-                    "name": "N1"
-                }, {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N2.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N2.jpg",
-                    "name": "N2"
-                }, {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N3.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N3.jpg",
-                    "name": "N3"
-                }, {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N4.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N4.jpg",
-                    "name": "N4"
-                }, {
-                    "author": "SixtyFour ThirtyTwo",
-                    "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N5.jpg",
-                    "thumbUrl": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N5.jpg",
-                    "name": "N5"
-                }     
+                }  
+                     
               ]
             }
         ]
