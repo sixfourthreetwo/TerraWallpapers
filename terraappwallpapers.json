@@ -1,17 +1,15 @@
 {   
-"Recents":
-    [
-        {
+"Recents": [{
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/boxelder.jpg",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/Main/boxelder.jpg",
         "name": "boxelder"
-      }, {
+      },{
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/crimea1.jpg",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/Main/crimea1.jpg",
         "name": "crimea1"
-      }, {
+      },{
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/crimea2.jpg",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/Main/crimea2.jpg",
@@ -61,20 +59,18 @@
         "url": "https://github.com/ryanmkelly/TerraWallpapers/raw/master/OSX/ios10wall.png",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/OSX/ios10wall.png",
         "name": "ios10wall"
-      }, {
+      },{
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Sierra.jpg",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/OSX/Sierra.jpg",
         "name": "Sierra"
-      },  {
+      },{
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/starrynight_xlarge.jpg",
         "small_url": "https://raw.githubusercontent.com/ryanmkelly/TerraThumbs/master/OSX/starrynight_xlarge.jpg",
         "name": "starrynight"
-      }
-    ],
-  "Terra": 
-  [
+      }],
+  "Terra":  [
       {
         "author": "SixtyFour ThirtyTwo",
         "url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/aires.jpg",
