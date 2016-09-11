@@ -4,15 +4,15 @@
 
           {
              "category_name": "All",
-             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Main/duoflow.jpg"
+             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/duoflow.jpg"
           },
           {
              "category_name": "OSX/iOS",
-             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/OSX/Yosemite.jpg"
+             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/OSX/Yosemite.jpg"
           },
           {
              "category_name": "Stock",
-             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/Stock/N3.jpg"
+             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Stock/N3.jpg"
           }
 	]
 }
