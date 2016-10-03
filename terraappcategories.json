@@ -3,8 +3,12 @@
 	[
 
           {
-             "category_name": "All",
+             "category_name": "Satellite",
              "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Main/duoflow.jpg"
+          },
+          {
+             "category_name": "Landscape",
+             "category_url": "https://raw.githubusercontent.com/ryanmkelly/TerraWallpapers/master/thumbs/Landscape/desert_pixabay.jpg"
           },
           {
              "category_name": "OSX/iOS",
